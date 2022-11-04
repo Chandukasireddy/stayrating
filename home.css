@@ -3,13 +3,26 @@
     --transition-duration: 0.3s;
 }
 
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+
+}
 
 nav {
+    padding:8px;
     position: relative;
     white-space: nowrap;
     background: white;
     padding: var(--underline-height) 0;
     box-shadow: 0 1em 2em rgba(0, 0, 0, 0.05);
+}
+h1, footer {
+  padding: 8px;
 }
 
 .underline {
