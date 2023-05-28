@@ -5,7 +5,7 @@
 <h1>Stayrating</h1>
 Stayrating is a web application designed to assist students in finding suitable accommodations in an efficient and user-friendly manner. The project aims to simplify the process of searching for accommodations by providing a platform that aggregates listings, offers advanced search functionality, and facilitates communication between students and landlords.
 
-Features
+<h2>Features</h2>
 User Authentication: Implemented a secure user authentication system that allows students to create accounts, log in, and manage their profiles.
 Accommodation Search: Developed an advanced search functionality that enables students to filter accommodations based on location, price, amenities, and other criteria.
 Listing Management: Implemented features to allow landlords to create and manage their accommodation listings, including adding details, uploading photos, and updating availability.
