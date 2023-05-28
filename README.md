@@ -3,7 +3,7 @@
 #To make a webiste consists of hostels and rentals for students.
  #Make a website which shows college hostels and private hostels
 <h1>Stayrating</h1>
-Stayrating is a web application designed to assist students in finding suitable accommodations in an efficient and user-friendly manner. The project aims to simplify the process of searching for accommodations by providing a platform that aggregates listings, offers advanced search functionality, and facilitates communication between students and landlords.
+<p>Stayrating is a web application designed to assist students in finding suitable accommodations in an efficient and user-friendly manner. The project aims to simplify the process of searching for accommodations by providing a platform that aggregates listings, offers advanced search functionality, and facilitates communication between students and landlords.</p>
 
 <h2>Features</h2>
 User Authentication: Implemented a secure user authentication system that allows students to create accounts, log in, and manage their profiles.
@@ -11,17 +11,17 @@ Accommodation Search: Developed an advanced search functionality that enables st
 Listing Management: Implemented features to allow landlords to create and manage their accommodation listings, including adding details, uploading photos, and updating availability.
 Messaging System: Facilitated communication between students and landlords by integrating a messaging system that allows them to exchange messages within the application.
 Performance Optimization: Optimized the application's performance by implementing caching mechanisms, minimizing database queries, and employing efficient data retrieval techniques.
-Installation
+<h2>Installation</h2>
 Clone the repository: git clone https://github.com/Chandukasireddy/stayrating.git
 Install the required dependencies: npm install
 Set up the database: Configure the MongoDB connection in the config.js file.
 Start the application: npm start
-Technologies Used
+<h2>Technologies Used</h2>
 Front-end: HTML, CSS, JavaScript
 Back-end: Node.js, Express.js
 Database: MongoDB
 Additional Libraries/Frameworks: [List any additional libraries or frameworks used in the project]
-Contributing
+<h2>Contributing </h2>
 We welcome contributions from the community to make Stayrating even better. If you would like to contribute, please follow these steps:
 
 Fork the repository.
