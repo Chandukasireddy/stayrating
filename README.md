@@ -17,18 +17,24 @@ Install the required dependencies: npm install
 Set up the database: Configure the MongoDB connection in the config.js file.
 Start the application: npm start
 <h2>Technologies Used</h2>
-Front-end: HTML, CSS, JavaScript
-Back-end: Node.js, Express.js
-Database: MongoDB
+<ul>
+    <li>Front-end: HTML, CSS, JavaScript</li>
+    <li>Back-end: Node.js, Express.js</li>
+    <li>Database: MongoDB</li>
+    <li>Additional Libraries/Frameworks: [List any additional libraries or frameworks used in the project]</li>
+  </ul>
 Additional Libraries/Frameworks: [List any additional libraries or frameworks used in the project]
 <h2>Contributing </h2>
 We welcome contributions from the community to make Stayrating even better. If you would like to contribute, please follow these steps:
 
 Fork the repository.
-Create a new branch for your feature: git checkout -b feature-name.
-Make your changes and commit them: git commit -m 'Add some feature'.
-Push the changes to your forked repository: git push origin feature-name.
-Submit a pull request to the main repository.
+ <ol>
+    <li>Fork the repository.</li>
+    <li>Create a new branch for your feature: <code>git checkout -b feature-name</code>.</li>
+    <li>Make your changes and commit them: <code>git commit -m 'Add some feature'</code>.</li>
+    <li>Push the changes to your forked repository: <code>git push origin feature-name</code>.</li>
+    <li>Submit a pull request to the main repository.</li>
+  </ol>
 Please ensure that your contributions adhere to the project's coding conventions and include appropriate documentation.
 
 License
