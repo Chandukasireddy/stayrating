@@ -2,7 +2,7 @@
 
 #To make a webiste consists of hostels and rentals for students.
  #Make a website which shows college hostels and private hostels
-Stayrating
+<h1>Stayrating</h1>
 Stayrating is a web application designed to assist students in finding suitable accommodations in an efficient and user-friendly manner. The project aims to simplify the process of searching for accommodations by providing a platform that aggregates listings, offers advanced search functionality, and facilitates communication between students and landlords.
 
 Features
