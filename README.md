@@ -6,16 +6,20 @@
 <p>Stayrating is a web application designed to assist students in finding suitable accommodations in an efficient and user-friendly manner. The project aims to simplify the process of searching for accommodations by providing a platform that aggregates listings, offers advanced search functionality, and facilitates communication between students and landlords.</p>
 
 <h2>Features</h2>
-User Authentication: Implemented a secure user authentication system that allows students to create accounts, log in, and manage their profiles.
-Accommodation Search: Developed an advanced search functionality that enables students to filter accommodations based on location, price, amenities, and other criteria.
-Listing Management: Implemented features to allow landlords to create and manage their accommodation listings, including adding details, uploading photos, and updating availability.
-Messaging System: Facilitated communication between students and landlords by integrating a messaging system that allows them to exchange messages within the application.
-Performance Optimization: Optimized the application's performance by implementing caching mechanisms, minimizing database queries, and employing efficient data retrieval techniques.
+<ul>
+    <li>User Authentication: Implemented a secure user authentication system that allows students to create accounts, log in, and manage their profiles.</li>
+    <li>Accommodation Search: Developed an advanced search functionality that enables students to filter accommodations based on location, price, amenities, and other criteria.</li>
+    <li>Listing Management: Implemented features to allow landlords to create and manage their accommodation listings, including adding details, uploading photos, and updating availability.</li>
+    <li>Messaging System: Facilitated communication between students and landlords by integrating a messaging system that allows them to exchange messages within the application.</li>
+    <li>Performance Optimization: Optimized the application's performance by implementing caching mechanisms, minimizing database queries, and employing efficient data retrieval techniques.</li>
+  </ul>
 <h2>Installation</h2>
-Clone the repository: git clone https://github.com/Chandukasireddy/stayrating.git
-Install the required dependencies: npm install
-Set up the database: Configure the MongoDB connection in the config.js file.
-Start the application: npm start
+<ol>
+    <li>Clone the repository: <code>git clone https://github.com/Chandukasireddy/stayrating.git</code></li>
+    <li>Install the required dependencies: <code>npm install</code></li>
+    <li>Set up the database: Configure the MongoDB connection in the <code>config.js</code> file.</li>
+    <li>Start the application: <code>npm start</code></li>
+  </ol>
 <h2>Technologies Used</h2>
 <ul>
     <li>Front-end: HTML, CSS, JavaScript</li>
